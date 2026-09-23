@@ -1,0 +1,9 @@
+.env
+Conexion_Base_datos/prueba.py
+Conexion_Base_datos/testvpn.ipynb
+Conexion_Base_datos/vpn_connect.py
+Conexion_Base_datos/vpn_manager.py
+Conexion_Base_datos/__pycache__/vpn_manager.cpython-313.pyc
+Conexion_Base_datos/__pycache__/vpn_manager.cpython-314.pyc
+Conexion_Base_datos/config_vpn/fernando.mendoza.ovpn
+Conexion_Base_datos/config_vpn/openvpn.exe
